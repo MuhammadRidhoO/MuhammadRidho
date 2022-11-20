@@ -16,6 +16,7 @@ nav {
     margin: auto;
     display: flex;
     justify-content: space-between;
+    padding: 10px 140px;
 }
 .left {
     display: flex;
